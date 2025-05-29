@@ -1,0 +1,32 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.nav{
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  list-style: none;
+  color: black;
+}
+.nav li {
+  padding: 1rem;
+  background-color: rgba(129, 84, 207, 0.862);
+  border-radius: 10px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.nav-li{
+  text-decoration: none;
+  color: inherit;
+}
+.active{
+  text-decoration: none;
+  font-size: large;
+  color:white;
+}
+
+

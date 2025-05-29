@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "afwan mohammad",
+      "email": "afwan123@gmail.com",
+      "id": "a8ae"
+    },
+    {
+      "name": "shawn michal",
+      "email": "shawn123@gmail.com",
+      "id": "ba8a"
+    },
+    {
+      "id": "3d0f",
+      "name": "sham",
+      "email": "sham123@gmail.com"
+    },
+    {
+      "name": "ayaz",
+      "email": "catista44@gmail.com",
+      "id": "84a4"
+    },
+    {
+      "name": "somaShekar",
+      "email": "soma1234@gmail.com",
+      "id": "7b6c"
+    },
+    {
+      "name": "ayaz",
+      "email": "yaaz44as@gmail.com",
+      "id": "963b"
+    }
+  ]
+}
