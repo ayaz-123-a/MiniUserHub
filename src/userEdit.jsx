@@ -14,10 +14,12 @@ useEffect(()=>{
 
 const url="http://localhost:3000/users/"+id
 const getData=async()=>{
+    {
     let response=await fetch(url)
     response=await response.json();
     setName(response.name)
-    setEmail(response.email)
+    setEmail(response.email)}
+
 }
 
 const updateData= async()=>{
