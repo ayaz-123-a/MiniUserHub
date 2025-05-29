@@ -11,8 +11,8 @@ A React application that interacts with an *online database server* to manage us
 
 ## 🛠 Tech Stack
 
-- *Frontend:* React, Axios, CSS
-- *Backend:* Online Database/API Server (e.g., MockAPI, JSON Server, Supabase, Firebase)
+- *Frontend:* React, CSS,Bootstrap
+- *Backend:* Online Database/API Server ( JSON Server)
 - *Version Control:* Git & GitHub
 
 # React + Vite
