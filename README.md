@@ -1,3 +1,20 @@
+# 🌐 Simple User Manager App
+
+A React application that interacts with an *online database server* to manage users — including adding, deleting, and fetching user data through API calls.
+
+## 🚀 Features
+
+- 🔍 Fetch users from a remote server
+- ➕ Add new users
+- ❌ Delete existing users
+- 🌐 Communicates with an *online REST API*
+
+## 🛠 Tech Stack
+
+- *Frontend:* React, Axios, CSS
+- *Backend:* Online Database/API Server (e.g., MockAPI, JSON Server, Supabase, Firebase)
+- *Version Control:* Git & GitHub
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
